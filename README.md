@@ -191,10 +191,12 @@ These augmentations improve model generalization and reduce overfitting.
 
 ## 📄 Publication
 
-**Utilizing YOLO Framework for Green Amaranth Leaf Disease Detection**
+This work has been published in the **2025 5th International Conference on Artificial Intelligence and Signal Processing (AISP)**.
 
-Presented at:
-**5th IEEE International Conference on Artificial Intelligence and Signal Processing (AISP 2025)**
+📄 **Paper Title:** *Utilizing YOLO-framework for Green Amaranth Leaf Disease Detection*
+
+🔗 **IEEE Xplore Link:** https://ieeexplore.ieee.org/document/11396176
 
 ---
+
 
