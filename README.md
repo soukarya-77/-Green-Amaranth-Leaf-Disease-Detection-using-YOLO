@@ -194,7 +194,6 @@ The following metrics were used to evaluate model performance:
 * mAP@0.5:0.95
 * Classification Loss
 * Bounding Box Loss
-* Distribution Focal Loss (DFL)
 
 ---
 
