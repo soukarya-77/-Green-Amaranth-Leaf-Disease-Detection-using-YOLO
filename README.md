@@ -315,6 +315,7 @@ This study demonstrates the effectiveness of YOLO-based deep learning for automa
 
 ---
 ## 🌟 One-Line Summary
-An Explainable YOLO-based deep learning framework for real-time Green Amaranth leaf disease detection, promoting sustainable agriculture and intelligent crop management.
+
+🌿 A YOLO-powered deep learning framework for automated Green Amaranth leaf disease detection, enabling intelligent crop health assessment, early disease diagnosis, and AI-driven precision agriculture.
 
 
