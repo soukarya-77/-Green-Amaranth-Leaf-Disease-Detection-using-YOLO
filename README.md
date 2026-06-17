@@ -295,19 +295,9 @@ These challenges make the detection task more realistic and practically relevant
 
 ---
 
-## 📁 Repository Structure
+## 📝 Conclusion
 
-```text
-├── dataset/
-├── notebooks/
-├── training/
-├── models/
-├── results/
-├── images/
-├── paper/
-├── README.md
-└── requirements.txt
-```
+This study demonstrates the effectiveness of YOLO-based deep learning for automated Green Amaranth leaf disease detection. Experimental results show that YOLOv8m achieves superior performance compared to YOLOv9m, enabling accurate and reliable disease identification. The proposed framework highlights the potential of AI and Computer Vision in advancing precision agriculture and intelligent crop health monitoring.
 
 ---
 
@@ -324,5 +314,7 @@ These challenges make the detection task more realistic and practically relevant
 **IEEE Xplore:** https://ieeexplore.ieee.org/document/11396176
 
 ---
+## 🌟 One-Line Summary
+An Explainable YOLO-based deep learning framework for real-time Green Amaranth leaf disease detection, promoting sustainable agriculture and intelligent crop management.
 
 
