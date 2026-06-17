@@ -225,8 +225,6 @@ The trained models successfully detect healthy and diseased Green Amaranth leave
 
 ✅ Healthy Leaf
 
-> Add sample prediction screenshots inside the `/results` folder.
-
 ---
 
 ## 🔬 Research Contribution
