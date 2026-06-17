@@ -263,7 +263,7 @@ These challenges make the detection task more realistic and practically relevant
 
 ---
 
-## 🔮 Future Work
+## 🔮 Future Scope
 
 * Increase dataset size.
 * Include additional disease categories.
