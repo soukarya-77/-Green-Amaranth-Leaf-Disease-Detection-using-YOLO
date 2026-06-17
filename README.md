@@ -308,7 +308,7 @@ This study demonstrates the effectiveness of YOLO-based deep learning for automa
 
 **Publisher:** IEEE
 
-**DOI:** 10.1109/AISP66545.2025.11396176
+**DOI:** https://doi.org/10.1109/AISP68263.2025.11396176
 
 **IEEE Xplore:** https://ieeexplore.ieee.org/document/11396176
 
